@@ -39,7 +39,7 @@ return  num1 + num2 ;
 }
 
 
-*/ 
+*/
 
 /*
     /// <summary> 
@@ -92,4 +92,13 @@ return  num1 + num2 ;
     }
 }
 
-*/ 
+*/
+
+// Naming Conevntion P2 
+#region Naming Conevntion
+// PascalCase [C#] 
+// MariamShindyRoute
+// Kebab-Case [ Angular ] 
+// Mariam_Shindy_Route
+
+#endregion
